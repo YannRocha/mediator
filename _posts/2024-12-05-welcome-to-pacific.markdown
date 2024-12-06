@@ -37,4 +37,7 @@ Explore mais sobre nossos projetos visitando [o site oficial da Pacific](http://
 
 Descubra mais abaixo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d1zjzi8luGA" title="AWS Video" frameborder="0" allowfullscreen></iframe>
+<video controls width="560" height="315" preload="auto">
+  <source src="https://pacificsecvideos.s3.sa-east-1.amazonaws.com/teaser_v5.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeo.
+</video>
